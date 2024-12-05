@@ -19,3 +19,4 @@ chmod +x setup
 ./setup
 ```
 6. DONE
+# Next time when entering the tool, type "pak" and the tool will automatically start.
