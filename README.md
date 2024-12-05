@@ -10,11 +10,11 @@ termux-setup-storage
 ```
 4. Clone this repository
 ```
-git clone https://github.com/nanamod96/PAKTOOL_FREE.git
+git clone https://github.com/nanamod96/PAKTOOL.git
 ```
-5. Open PAKTOOL_FREE directory and run setup.
+5. Open PAKTOOL directory and run setup.
 ```
-cd PAKTOOL_FREE
+cd PAKTOOL
 chmod +x setup
 ./setup
 ```
