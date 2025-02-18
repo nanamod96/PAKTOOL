@@ -1,0 +1,8 @@
+cd $HOME/PAKTOOL
+chmod +x menu
+chmod +x menupak
+chmod +x menumap
+chmod +x map
+chmod +x unpak
+chmod +x repak
+./menu
