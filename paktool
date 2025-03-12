@@ -1,0 +1,10 @@
+cd $HOME/PAKTOOL
+chmod +x menu
+chmod +x menumap
+chmod +x map
+chmod +x menupak
+chmod +x menuskin
+chmod +x unpak
+chmod +x repak
+chmod +x setup
+./setup
